@@ -7,6 +7,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+.git/
+.idea/
+appsettings.Development.json
+.env
+dump.rdb
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
